@@ -182,17 +182,12 @@ User role permissions are defined in the sidebar navigation component. Modify th
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Support
 
 For support and questions, please open an issue in the repository.
 
 ---
 
-Built with ❤️ for modern hotel management needs.
 
 
 
